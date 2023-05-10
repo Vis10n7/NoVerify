@@ -622,7 +622,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "aks":
         buttons = [[
-            InlineKeyboardButton('Contact Support', url='https://telegram.me/Owner_Here_Bot')],[
+            InlineKeyboardButton('Contact Support', url='https://telegram.me/Mr_official_300')],[
             InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data')
         ]]
@@ -773,13 +773,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
     elif query.data == "kd_cnl":
             cnlbtn = [[
-                      InlineKeyboardButton('Aʟʟᴜ Aʀᴊᴜɴ 🪔 Bᴏᴛ Lᴏɢs', url="https://t.me/Aboutme_AlluArjunBot")
+                      InlineKeyboardButton('Tᴏɴʏ Sᴛᴀʀᴋ⚡ Bᴏᴛ Lᴏɢs', url="https://t.me/Aboutme_Tonystark")
                      ], [
-                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='t.me/Request_Zone12'),
-                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='t.me/Movies_Corner20')
+                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='t.me/FilmiXone'),
+                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='t.me/FilmiXone_Channel')
                      ], [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/Request_Corner1'),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='t.me/Cornersofficial')
+                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/Fx1_Support'),
+                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='t.me/Aboutme_Tonystark')
                      ], [
                       InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
                      ]]
