@@ -7,15 +7,15 @@ class script(object):
 
     AKS_TXT = """
 
-<b>──────「 <a href='https://t.me/zsbhere'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
+<b>──────「 <a href='https://t.me/Mr_official_300'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
 
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏғ ᴍᴏɴᴇʏ ғʀᴏᴍ <a href='https://t.me/samantha_herebot'>ᴛʜɪꜱ</a>  ʙᴏᴛ ᴡɪᴛʜ ғʀᴇᴇ ᴛᴏ ᴜsᴇ ʙᴏᴛ.
+ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏғ ᴍᴏɴᴇʏ ғʀᴏᴍ <a href='https://t.me/Pantherf_Robot'>ᴛʜɪꜱ</a>  ʙᴏᴛ ᴡɪᴛʜ ғʀᴇᴇ ᴛᴏ ᴜsᴇ ʙᴏᴛ.
 
 ›› sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 0 ᴍᴇᴍʙᴇʀs.
 
-›› sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href='https://tnlink.in/ref/Zafar12'>Tnlink</a> .[ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇᴅ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
+›› sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href='https://tnlink.in/ref/MrAnonymous'>Tnlink</a> .[ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇᴅ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
 
-›› ꜱᴛᴇᴘ 3: ›› sᴛᴇᴘ 𝟹 : ғᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href='https://t.me/Aboutme_AlluArjunBot/85'>ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ</a> .
+›› ꜱᴛᴇᴘ 3: ›› sᴛᴇᴘ 𝟹 : ғᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href='https://t.me/Aboutme_Tonystark/4'>ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ</a> .
 
 ★ ᴛʜɪꜱ ʙᴏᴛ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴄᴏɴᴠᴇʀᴛꜱ ʟɪɴᴋꜱ ᴡɪᴛʜ ʏᴏᴜʀ ᴀᴘɪ ᴀɴᴅ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
 
@@ -29,16 +29,16 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/zsbhere>𓆩Dᴀʀᴇ Dᴇᴠɪʟ𓆩 </a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Mr_official_300>ʙᴀʙᴀʏ </a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/CornersOfficial>Cᴏʀɴᴇʀꜱ Oғғɪᴄɪᴀʟ ⚡</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/FilmiXone_Channel>Fɪʟᴍɪ X ᴏɴᴇ ⚡</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT ="""
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ Aɴ Closed Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 
-- Sᴏᴜʀᴄᴇ - <a href=https://t.me/zsbhere>Owner 😎</a></b>
+- Sᴏᴜʀᴄᴇ - <a href=https://t.me/Mr_official_300>Owner 😎</a></b>
 """
  
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -68,7 +68,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/kd_botz)</code>
+<code>[Button Text](buttonurl:https://t.me/FilmiXone_Channel)</code>
 
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
@@ -130,7 +130,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
 <b>📉 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
 
-<b><a href=https://t.me/CornersOfficial>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ Cᴏʀɴᴇʀꜱ Oғғɪᴄɪᴀʟ</a></b>"""
+<b><a href=https://t.me/FilmiXone_Channel>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ FɪʟᴍɪXᴏɴᴇ</a></b>"""
 
     ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
 
@@ -152,7 +152,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
 
-<b>⍟────[ @Movies_Corner20 ]─────⍟</b>"""
+<b>⍟────[ @FilmiXone ]─────⍟</b>"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
@@ -208,7 +208,7 @@ Rᴇᴀsᴏɴs
 𝟸) Tʏᴘᴇ Nᴀᴍᴇ Wɪᴛʜ Yᴇᴀʀ
 
 𝟹) Mᴏᴠɪᴇ Is Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ Dᴀᴛᴀʙᴀsᴇ 
-Rᴇᴘᴏʀᴛ Hᴇʀᴇ @Request_Corner1</b>
+Rᴇᴘᴏʀᴛ Hᴇʀᴇ @Fx1_Support</b>
 """
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ...
@@ -217,9 +217,9 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @Request_Corner1</b>
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜𓆩Dᴀʀᴇ Dᴇᴠɪʟ𓆩 『🇮🇳』
-• ᴜꜱᴇʀɴᴀᴍᴇ : @zsbhere
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/zsbhere'>𓆩Dᴀʀᴇ Dᴇᴠɪʟ𓆩࿐</a></b>
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 ʙᴀʙᴀʏ『🇮🇳』
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Mr_official_300
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Mr_official_300'>ʙᴀʙᴀʏ࿐</a></b>
 """
 
     KD_IMDB = """
@@ -247,8 +247,8 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @Request_Corner1</b>
 • /batch <code>- ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟɪɴᴋ ғᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ᴍᴇᴅɪᴀ.<code>
 
 <b>Exᴀᴍᴘʟᴇ:</b>
-<code>/batch https://t.me/Movies_Corner20/1 
-https://t.me/Movies_Corner20/9</code>
+<code>/batch https://t.me/FilmiXone_Channel/1 
+https://t.me/FilmiXone_Channel/9</code>
 """
 
     KD_CNL = """
@@ -352,7 +352,7 @@ https://t.me/Movies_Corner20/9</code>
 
 ɪғ ʏᴏᴜ ɴᴏᴛ sᴇᴇ ʏᴏᴜʀ ғɪʟᴇs ᴏɴ ᴛʜɪs ᴘᴀɢᴇ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ɴᴇxᴛ ᴘᴀɢᴇ.
 
-Powered by :- KD Botz
+Powered by :- FilmiXone
 """
 
     SPLMD = """
