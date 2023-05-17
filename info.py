@@ -46,7 +46,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 # Channel Button Links
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/FilmiXone')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/FilmiXone_Channel')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Fx1_Support')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '-1001869697401')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
