@@ -12,7 +12,7 @@ services:
 
     buildCommand: pip3 install -U -r requirements.txt
 
-    repo: https://github.com/Joelkb/DQ-the-file-donor.git # optional
+    repo: https://github.com/kdbotz/Lucifer.git # optional
 
     region: oregon # optional (defaults to oregon)
 
