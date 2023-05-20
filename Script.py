@@ -130,7 +130,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
 <b>📉 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
 
-<b><a href=https://t.me/+4nzja42ELQwzOWVl>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ FɪʟᴍɪXᴏɴᴇ</a></b>"""
+<b><a href=https://t.me/+4nzja42ELQwzOWVl>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ bot channel</a></b>"""
 
     ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
 
@@ -217,7 +217,7 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @New_Moviee_hindi</b>
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 BERLIN『🚩🇳』
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 TOYOTA『🚩』
 • ᴜꜱᴇʀɴᴀᴍᴇ : @J_shree_ram
 • ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/J_shree_ram'>ʙᴀʙᴀʏ࿐</a></b>
 """
