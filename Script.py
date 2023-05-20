@@ -7,15 +7,15 @@ class script(object):
 
     AKS_TXT = """
 
-<b>──────「 <a href='https://t.me/Mr_official_300'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
+<b>──────「 <a href='https://t.me/J_shree_ram'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
 
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏғ ᴍᴏɴᴇʏ ғʀᴏᴍ <a href='https://t.me/Pantherf_Robot'>ᴛʜɪꜱ</a>  ʙᴏᴛ ᴡɪᴛʜ ғʀᴇᴇ ᴛᴏ ᴜsᴇ ʙᴏᴛ.
+ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏғ ᴍᴏɴᴇʏ ғʀᴏᴍ <a href='https://t.me/NINJA_H2R_Bot'>ᴛʜɪꜱ</a>  ʙᴏᴛ ᴡɪᴛʜ ғʀᴇᴇ ᴛᴏ ᴜsᴇ ʙᴏᴛ.
 
 ›› sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 0 ᴍᴇᴍʙᴇʀs.
 
-›› sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href='https://tnlink.in/ref/MrAnonymous'>Tnlink</a> .[ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇᴅ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
+›› sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href='https://tinyfy.in/ref/Sawansingh98'>Tnlink</a> .[ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇᴅ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
 
-›› ꜱᴛᴇᴘ 3: ›› sᴛᴇᴘ 𝟹 : ғᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href='https://t.me/Aboutme_Tonystark/4'>ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ</a> .
+›› ꜱᴛᴇᴘ 3: ›› sᴛᴇᴘ 𝟹 : ғᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href='https://t.me/bot_channel_011/16'>ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ</a> .
 
 ★ ᴛʜɪꜱ ʙᴏᴛ ᴡɪʟʟ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴄᴏɴᴠᴇʀᴛꜱ ʟɪɴᴋꜱ ᴡɪᴛʜ ʏᴏᴜʀ ᴀᴘɪ ᴀɴᴅ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
 
@@ -29,16 +29,16 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Mr_official_300>ʙᴀʙᴀʏ </a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/J_shree_ram>sigma </a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/FilmiXone_Channel>Fɪʟᴍɪ X ᴏɴᴇ ⚡</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/New_Moviee_hindi>New Movie ⚡</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT ="""
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ Aɴ Closed Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 
-- Sᴏᴜʀᴄᴇ - <a href=https://t.me/Mr_official_300>Owner 😎</a></b>
+- Sᴏᴜʀᴄᴇ - <a href=https://t.me/J_shree_ram>ADMIN </a></b>
 """
  
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -68,7 +68,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/FilmiXone_Channel)</code>
+<code>[Button Text](buttonurl:https://t.me/bot_channel_011/16)</code>
 
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
@@ -152,7 +152,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
 
-<b>⍟────[ @FilmiXone ]─────⍟</b>"""
+<b>⍟────[ @New_Moviee_hindi ]─────⍟</b>"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
@@ -217,9 +217,9 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @Fx1_Support</b>
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 ʙᴀʙᴀʏ『🇮🇳』
-• ᴜꜱᴇʀɴᴀᴍᴇ : @Mr_official_300
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Mr_official_300'>ʙᴀʙᴀʏ࿐</a></b>
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 ʙᴀʙᴀʏ『🚩🇳』
+• ᴜꜱᴇʀɴᴀᴍᴇ : @J_shree_ram
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/J_shree_ram'>ʙᴀʙᴀʏ࿐</a></b>
 """
 
     KD_IMDB = """
@@ -247,8 +247,8 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @Fx1_Support</b>
 • /batch <code>- ᴛᴏ ᴄʀᴇᴀᴛᴇ ʟɪɴᴋ ғᴏʀ ᴍᴜʟᴛɪᴘʟᴇ ᴍᴇᴅɪᴀ.<code>
 
 <b>Exᴀᴍᴘʟᴇ:</b>
-<code>/batch https://t.me/FilmiXone_Channel/1 
-https://t.me/FilmiXone_Channel/9</code>
+<code>/batch https://t.me/bot_channel_011/16 
+https://t.me/bot_channel_011/16</code>
 """
 
     KD_CNL = """
@@ -352,7 +352,7 @@ https://t.me/FilmiXone_Channel/9</code>
 
 ɪғ ʏᴏᴜ ɴᴏᴛ sᴇᴇ ʏᴏᴜʀ ғɪʟᴇs ᴏɴ ᴛʜɪs ᴘᴀɢᴇ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ɴᴇxᴛ ᴘᴀɢᴇ.
 
-Powered by :- FilmiXone
+Powered by :- 😉 
 """
 
     SPLMD = """
@@ -366,7 +366,7 @@ sᴇʀɪᴇs ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ
 
 🚯ᴅᴏɴ'ᴛ ᴜsᴇ ➠ ':(!,./)
 
-Powered by :- KD Botz
+Powered by :- 😉 
 """
     
     REQUEST_TXT = """
