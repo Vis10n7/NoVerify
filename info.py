@@ -28,7 +28,7 @@ SPELL_IMG = environ.get("SPELL_IMG", "https://telegra.ph/file/b60d2facc538ad82ad
 NEWGRP = environ.get("NEWGRP", "https://telegra.ph/file/705593c3ae56831c8e565.jpg")
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5651594253').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '0').split()]
 auth_users = [int(user) if id_pattern.search(user) else user for user in environ.get('AUTH_USERS', '').split()]
 AUTH_USERS = (auth_users + ADMINS) if auth_users else []
@@ -39,8 +39,8 @@ AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 FILDLT_CNL = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('FILDLT_CNL', '0').split()]
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', 'mongodb+srv://B1:B1@cluster0.v4vng.mongodb.net/?retryWrites=true&w=majority')
-DATABASE_NAME = environ.get('DATABASE_NAME', "")
+DATABASE_URI = environ.get('DATABASE_URI', 'mongodb+srv://singhsawan880:singhsawan880@cluster0.uzawtpr.mongodb.net/?retryWrites=true&w=majority')
+DATABASE_NAME = environ.get('DATABASE_NAME', "monga")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
@@ -54,7 +54,7 @@ SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', 0))
 HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/aboutme_tonystark/3')
 
 # Log Channels
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001551869890))
 RQST_LOG_CHANNEL = int(environ.get('RQST_LOG_CHANNEL', 0))
 
 # Bot Options
