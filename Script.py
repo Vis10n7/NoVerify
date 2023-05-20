@@ -29,7 +29,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/J_shree_ram>sigma </a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/J_shree_ram>BERLIN </a></b>
 
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/New_Moviee_hindi>New Movie ⚡</a></b>
 
@@ -130,7 +130,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
 <b>📉 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
 
-<b><a href=https://t.me/FilmiXone_Channel>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ FɪʟᴍɪXᴏɴᴇ</a></b>"""
+<b><a href=https://t.me/+4nzja42ELQwzOWVl>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ FɪʟᴍɪXᴏɴᴇ</a></b>"""
 
     ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
 
