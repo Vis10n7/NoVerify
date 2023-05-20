@@ -185,7 +185,7 @@ async def next_page(bot, query):
                 ],
             )
         btn.insert(0, [
-            InlineKeyboardButton("🍷 Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 🍷", url=HOW_DWLD_LINK)
+            InlineKeyboardButton("👉 Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 👈", url=HOW_DWLD_LINK)
         ])
         try:
             await query.edit_message_reply_markup(
@@ -622,7 +622,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "aks":
         buttons = [[
-            InlineKeyboardButton('Contact Support', url='https://telegram.me/Mr_official_300')],[
+            InlineKeyboardButton('Contact Support', url='https://t.me/+4nzja42ELQwzOWVl')],[
             InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='start'),
             InlineKeyboardButton('Cʟᴏsᴇ', callback_data='close_data')
         ]]
@@ -773,13 +773,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
             )
     elif query.data == "kd_cnl":
             cnlbtn = [[
-                      InlineKeyboardButton('Tᴏɴʏ Sᴛᴀʀᴋ⚡ Bᴏᴛ Lᴏɢs', url="https://t.me/Aboutme_Tonystark")
+                      InlineKeyboardButton('🍿NEW MOVIE 🍿, url="https://t.me/New_Moviee_hindi")
                      ], [
-                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='t.me/FilmiXone'),
-                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='t.me/FilmiXone_Channel')
+                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://t.me/+4nzja42ELQwzOWVl'),
+                      InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://t.me/New_Moviee_hindi')
                      ], [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/Fx1_Support'),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='t.me/Aboutme_Tonystark')
+                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='https://t.me/+4nzja42ELQwzOWVl'),
+                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs', url='https://t.me/bot_channel_011/16')
                      ], [
                       InlineKeyboardButton("⟸ Bᴀᴄᴋ", callback_data="start")
                      ]]
@@ -1208,7 +1208,7 @@ async def auto_filter(client, msg, spoll=False):
             )
 
     btn.insert(0, [
-        InlineKeyboardButton("🍷 Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 🍷", url=HOW_DWLD_LINK)
+        InlineKeyboardButton("👉 Hᴏᴡ Tᴏ Dᴏᴡɴʟᴏᴀᴅ 👈", url=HOW_DWLD_LINK)
     ])
 
     if offset != "":
