@@ -44,14 +44,14 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "monga")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/FilmiXone')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/FilmiXone_Channel')
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '-1001869697401')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+4nzja42ELQwzOWVl')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/New_Moviee_hindi')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '-1001818643949')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', 0))
-HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/aboutme_tonystark/3')
+HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/+W5plh7_tP19lZjg1')
 
 # Log Channels
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001551869890))
@@ -59,7 +59,7 @@ RQST_LOG_CHANNEL = int(environ.get('RQST_LOG_CHANNEL', 0))
 
 # Bot Options
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
-IMDB = is_enabled((environ.get('IMDB', "True")), True)
+IMDB = is_enabled((environ.get('IMDB', "False")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), True)
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "[{file_name}](https://t.me/FilmiXone)\n\n<b>•────•────────•────•\n📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/FilmiXone)\n🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ​ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/FilmiXone_Channel)\n•────•────────•────•\n\n©️ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [CO HERE](https://t.me/FilmiXone_Channel)</b>")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
@@ -85,7 +85,7 @@ SPL_DELETE_TIME = int(environ.get('SPL_DELETE_TIME', 15))
 
 # Url Shortner
 SHORTLINK_URL = environ.get('URL_SHORTENR_WEBSITE', 'tnlink.in')
-SHORTLINK_API = environ.get('URL_SHORTNER_WEBSITE_API', '37f6443b39b5f26c4315a2fe250a1faf75caf3b7')
+SHORTLINK_API = environ.get('URL_SHORTNER_WEBSITE_API', '8f29e4130ed3439c4c5cfc5c56dae86c0aff0daa)
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
