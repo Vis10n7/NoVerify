@@ -40,18 +40,18 @@ FILDLT_CNL = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', 'mongodb+srv://singhsawan880:singhsawan880@cluster0.uzawtpr.mongodb.net/?retryWrites=true&w=majority')
-DATABASE_NAME = environ.get('DATABASE_NAME', "monga")
+DATABASE_NAME = environ.get('DATABASE_NAME', "mongaro")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+4nzja42ELQwzOWVl')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/New_Moviee_hindi')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+fUv8WckDL7kwZWY1')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/JB_corporation')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', '-1001818643949')
 MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 
 # Custom Chats
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', 0))
-HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/+W5plh7_tP19lZjg1')
+HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/How_To_Download')
 
 # Log Channels
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001551869890))
@@ -84,8 +84,8 @@ DELETE_TIME = int(environ.get('DELETE_TIME', 600))
 SPL_DELETE_TIME = int(environ.get('SPL_DELETE_TIME', 15))
 
 # Url Shortner
-SHORTLINK_URL = environ.get('URL_SHORTENR_WEBSITE', 'tinyfy.in')
-SHORTLINK_API = environ.get('URL_SHORTNER_WEBSITE_API', '8f29e4130ed3439c4c5cfc5c56dae86c0aff0daa')
+SHORTLINK_URL = environ.get('URL_SHORTENR_WEBSITE', 'mdisklink.link')
+SHORTLINK_API = environ.get('URL_SHORTNER_WEBSITE_API', '295103441f0f27b48a3cbf94364fe5d1e6331c65')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
