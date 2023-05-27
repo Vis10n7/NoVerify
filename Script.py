@@ -7,13 +7,13 @@ class script(object):
 
     AKS_TXT = """
 
-<b>──────「 <a href='https://t.me/J_shree_ram'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
+<b>──────「 <a href='https://t.me/Vis10n7'>ᴇᴀʀɴ ᴍᴏɴᴇʏ</a> 」─────
 
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏғ ᴍᴏɴᴇʏ ғʀᴏᴍ <a href='https://t.me/NINJA_H2R_Bot'>ᴛʜɪꜱ</a>  ʙᴏᴛ ᴡɪᴛʜ ғʀᴇᴇ ᴛᴏ ᴜsᴇ ʙᴏᴛ.
+ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴇᴀʀɴ ʟᴏᴛs ᴏғ ᴍᴏɴᴇʏ ғʀᴏᴍ <a href='https://t.me/RoryDBbot'>ᴛʜɪꜱ</a>  ʙᴏᴛ ᴡɪᴛʜ ғʀᴇᴇ ᴛᴏ ᴜsᴇ ʙᴏᴛ.
 
 ›› sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢʀᴏᴜᴘ ᴡɪᴛʜ ᴍɪɴɪᴍᴜᴍ 0 ᴍᴇᴍʙᴇʀs.
 
-›› sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href='https://tinyfy.in/ref/Sawansingh98'>Tnlink</a> .[ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇᴅ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
+›› sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ <a href='https://tinyfy.in/ref/NikhilVishwa'>Tnlink</a> .[ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴜsᴇᴅ ᴏᴛʜᴇʀ sʜᴏʀᴛɴᴇʀ ᴡᴇʙsɪᴛᴇ ]
 
 ›› ꜱᴛᴇᴘ 3: ›› sᴛᴇᴘ 𝟹 : ғᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href='https://t.me/bot_channel_011/16'>ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ</a> .
 
@@ -29,16 +29,16 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/J_shree_ram>BERLIN </a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Vis10n7>Nikhil</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/New_Moviee_hindi>New Movie ⚡</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/JB_Corporation>New Movie ⚡</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT ="""
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ Aɴ Closed Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
 
-- Sᴏᴜʀᴄᴇ - <a href=https://t.me/J_shree_ram>ADMIN </a></b>
+- Sᴏᴜʀᴄᴇ - <a href=https://t.me/Vis10n7>ADMIN </a></b>
 """
  
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -152,7 +152,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
 
-<b>⍟────[ @New_Moviee_hindi ]─────⍟</b>"""
+<b>⍟────[ @JB_COrporation ]─────⍟</b>"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
@@ -208,7 +208,7 @@ Rᴇᴀsᴏɴs
 𝟸) Tʏᴘᴇ Nᴀᴍᴇ Wɪᴛʜ Yᴇᴀʀ
 
 𝟹) Mᴏᴠɪᴇ Is Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ Dᴀᴛᴀʙᴀsᴇ 
-Rᴇᴘᴏʀᴛ Hᴇʀᴇ @New_Moviee_hindi</b>
+Rᴇᴘᴏʀᴛ Hᴇʀᴇ @JB_Corporation</b>
 """
 
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ...
@@ -217,9 +217,9 @@ Rᴇᴘᴏʀᴛ Hᴇʀᴇ @New_Moviee_hindi</b>
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 TOYOTA『🚩』
-• ᴜꜱᴇʀɴᴀᴍᴇ : @J_shree_ram
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/J_shree_ram'>ʙᴀʙᴀʏ࿐</a></b>
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 Summu『🚩』
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Vis10n7
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Vis10n7'>Vision</a></b>
 """
 
     KD_IMDB = """
