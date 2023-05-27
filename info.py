@@ -39,8 +39,8 @@ AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 FILDLT_CNL = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('FILDLT_CNL', '0').split()]
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', 'mongodb+srv://singhsawan880:singhsawan880@cluster0.uzawtpr.mongodb.net/?retryWrites=true&w=majority')
-DATABASE_NAME = environ.get('DATABASE_NAME', "mongaro")
+DATABASE_URI = environ.get('DATABASE_URI', 'mongodb+srv://RoyalDwip:RoyalDwip@cluster0.0sp6pvf.mongodb.net/?retryWrites=true&w=majority')
+DATABASE_NAME = environ.get('DATABASE_NAME', "Vadeantu")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Channel Button Links
